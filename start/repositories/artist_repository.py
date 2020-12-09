@@ -51,7 +51,7 @@ def update(artist):
 #     values = [user.id]
 #     results = run_sql(sql, values)
 
-    # for row in results:
-    #     task = Task(row['description'], user, row['duration'], row['completed'], row['id'])
-    #     tasks.append(task)
-    # return tasks
+# for row in results:
+#     task = Task(row['description'], user, row['duration'], row['completed'], row['id'])
+#     tasks.append(task)
+# return tasks
