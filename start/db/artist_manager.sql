@@ -9,6 +9,6 @@ CREATE TABLE artist (
 
 CREATE TABLE album (
     id SERIAL PRIMARY KEY,
-    album_name VARCHAR(255)
+    album_name VARCHAR(255),
     artist VARCHAR(255)
 );
